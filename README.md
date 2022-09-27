@@ -4,4 +4,4 @@
 
 This repository provides code and data necessary to reproduce results published in the following paper:
 
->Leczkowski, A., Grudzi{\'n}ska, J., Vargas Guzm{\'a}n, M., Wawer, A. & Siemieniuk, A. (2022, October). Prepositions Matter in Quantifier Scope Disambiguation. In Proceedings of the 28th International Conference on Computational Linguistics (pp. XX-XX).
+>Leczkowski, A., Grudzińska, J., Vargas Guzmán, M., Wawer, A. & Siemieniuk, A. (2022, October). Prepositions Matter in Quantifier Scope Disambiguation. In Proceedings of the 28th International Conference on Computational Linguistics (pp. XX-XX).
